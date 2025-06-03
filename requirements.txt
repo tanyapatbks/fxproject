@@ -1,0 +1,43 @@
+# Multi-Currency Bagging AI Trading System
+# Optimized for Python 3.11.9 on MacBook Pro M3 Pro
+# Core Data Processing
+pandas
+numpy
+
+# Machine Learning Frameworks
+scikit-learn
+xgboost
+
+# Deep Learning
+tensorflow==2.15.0
+tensorflow-macos==2.15.0  # Optimized for Apple Silicon
+torch
+pytorch-forecasting
+
+
+# Technical Analysis
+# TA-Lib==0.4.28
+ta
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities
+tqdm
+joblib
+pyyaml
+
+# Date/Time Processing
+python-dateutil
+
+# Statistical Analysis
+scipy
+statsmodels
+
+# Memory Optimization
+psutil
+
+# Logging and Configuration
+loguru
